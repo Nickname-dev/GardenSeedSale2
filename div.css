@@ -1,0 +1,27 @@
+#box1{
+    background-color: green;
+    width : 1500px;
+    height : 100px;
+
+}
+#box2{
+    background-color: red;
+    width : 104px;
+    height : 104px;
+}
+#body1{
+    background-color: blue;
+    width : 1500px;
+    height : 100px;
+}
+#bullet1{
+    background-color: green;
+    width : 10px;
+    height : 10px;
+}.box1{
+
+background-color: green;
+    width : 1500px;
+    height : 95px;
+
+}
